@@ -56,9 +56,7 @@ input, .b1, .b2{
 .b1, .b2{
     border: none;
 }
-.fom{
-    
-}
+
 .full{
     display: flex;
     margin-top: 20%;
